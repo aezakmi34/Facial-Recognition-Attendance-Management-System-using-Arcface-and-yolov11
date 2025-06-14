@@ -1,7 +1,7 @@
 # Facial Recognition Attendance Management System
 
 This project uses YOLO (for face detection) and ArcFace (via InsightFace) for face recognition and attendance marking.  
-Repository: [GitHub - aezakmi34/Facial-Recognition-Attendance-Management-System-using-Arcface-and-yolov11](https://github.com/aezakmi34/Facial-Recognition-Attendance-Management-System-using-Arcface-and-yolov11.git)
+Repository: [GitHub - aezakmi34/Facial-Recognition-Attendance-Management-System-using-Arcface-and-yolov11](https://github.com/aezakmi34/Facial-Recognition-Attendance-Management-System-using-Arcface-and-yolov11.git) . The first python file uses both arcface + yolo and 2nd python file use purely arcface both need the same python version
 
 ---
 
