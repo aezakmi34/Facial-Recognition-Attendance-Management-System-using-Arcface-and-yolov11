@@ -97,6 +97,8 @@ python improved_face_recognition.py
 ---
 
 ## Example Directory Structure
+in Non_face folder folder name must be id and inside u have the images such as Alisa1.jpg , Alisa2.jpg like and same goes for all folders 
+but folder name must be ID (015 , 344, like that)
 
 ```
 project/
@@ -112,8 +114,7 @@ project/
     └── 67890/
         └── img1.jpg
 ```
-in Non_face folder folder name must be id and inside u have the images such as Alisa1.jpg , Alisa2.jpg like and same goes for all folders 
-but folder name must be ID (015 , 344, like that)
+
 ---
 
 ## Troubleshooting
